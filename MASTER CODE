@@ -1,5 +1,5 @@
 print("")
-print("THIS GAME IS RECCOMENDED FOR IDLE PLATFORMING ONLY
+print("THIS GAME IS RECCOMENDED FOR IDLE PLATFORMING ONLY")
 print("")
 startBabyshake = input("Press enter to start BabyShake")
 print("")
@@ -181,11 +181,11 @@ print("")
 print("")
 babygender = int(input("what is your baby's gender male(1) female(2) gay(3)"))
 if babygender == 1:
-  gender = male
+  gender = "male"
 if babygender == 2:
-  gender = female
+  gender = "female"
 if babygender == 3:
-  gender = gayby
+  gender = "gayby"
 print("")
 print("Awesome!")
 print("")
@@ -199,7 +199,23 @@ print("")
 print("")
 print("")
 print("CUSTOMIZE YOUR BABY")
-custombaby = int(input("thicc(1) normie(2) Loring Tittyburg(3)"))
+customBaby = int(input("thicc(1) normie(2) Loring Tittyburg(3)"))
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+babyName = input("What is your baby's name?:")
+if customBaby == 1:
+print(" ___________ ")
+print("/           \")
+print("|   o   o   |")
+print("| \_______/ |")
+print("[___________]")
+print("|           |")
+
 
 
 
