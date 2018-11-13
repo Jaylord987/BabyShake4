@@ -209,14 +209,15 @@ print("")
 print("")
 babyName = input("What is your baby's name?:")
 if customBaby == 1:
-print(" ___________ ")
-print("/           \")
-print("|   o   o   |")
-print("| \_______/ |")
-print("[___________]")
-print("|           |")
-
-
+print("    ___________ ")
+print("   /           \")
+print("   |   o   o   |")
+print("\  | \_______/ |  /")
+print(" \ [___________] /")
+print("  \|           |/")
+print("   |           |")
+print("   |___________|)
+print("")
 
 
 
