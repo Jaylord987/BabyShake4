@@ -203,12 +203,12 @@ customBaby = int(input("thicc(1) normie(2) Loring Tittyburg(3)"))
 print("")
 print("")
 print("")
+babyName = input("What is your baby's name?:")
 print("")
 print("")
 print("")
 print("")
 baby = int(input("Hoew mane tiem yuo want babe to shakey"))
-babyName = input("What is your baby's name?:")
 if customBaby == 1:
   baby_shoke = 0
   while True:
@@ -302,7 +302,54 @@ if customBaby == 1:
     baby_shoke = baby_shoke + 1
     if baby_shoke == baby:
             break
+if customBaby == 2:
+  baby_shoke = 0
+  while True:
+   print("                            (*^_^*)")
+   print("                             [   ]")
+   print("                            ! !")
 
+   print("                         (*^_^*)")
+   print("                          [   ]")
+   print("                         ! !")
+
+   print("                      (*^_^*)")
+   print("                       [   ]")
+   print("                       ! !")
+
+   print(" (*^_^*)")
+   print("    [   ]")
+   print("     ! !")
+
+   print("                 (*^_^*)")
+   print("                   [   ]")
+   print("                    ! !")
+
+   print("                                           (*^_^*)")
+   print("                                          [   ]")
+   print("                                             ! !")
+
+   print("      (*^_^*)")
+   print("       [   ]")
+   print("        ! !")
+
+   print("         (*^_^*)")
+   print("        [   ]")
+   print("         ! !")
+   print("     (*^_^*)")
+   print("        [   ]")
+   print("         ! !")
+   print("         (*^_^*)")
+   print("        [   ]")
+   print("         ! !")
+   print("    (*^_^*)")
+   print("        [   ]")
+   print("         ! !")
+   baby_shoke = baby_shoke + 1
+   if baby_shoke == baby:
+       break
+else:
+  
 
 
 
